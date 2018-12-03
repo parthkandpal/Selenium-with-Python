@@ -1,0 +1,2 @@
+MyEmail=''
+MyPassword=''
